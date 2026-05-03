@@ -49,12 +49,12 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
+happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 #profile-subscription-url: https://raw.githubusercontent.com/huha-create/Sulim2/main/README.md
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
 #profile-icon: https://share.google/Kl64QMcBQApgnH6aJ
 #profile-test-url: http://cp.cloudflare.com/generate_204
-
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@138.124.26.159:443?security=reality&encryption=none&pbk=GFe2pwkZh7WJbyZuFpFH68G4AOjvfl_xZANcXU2zZio&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com#%F0%9F%87%B8%F0%9F%87%AA%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@109.120.133.147:443?security=reality&encryption=none&pbk=GFe2pwkZh7WJbyZuFpFH68G4AOjvfl_xZANcXU2zZio&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
 vless://aed996ff-eca0-4d4a-b2f3-01362ec4d48d@77.110.103.104:443?security=reality&encryption=none&pbk=ET27w-6nMRvINVTLG8suQqEOT_f2BhrXGCI1USpN9AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
