@@ -8,8 +8,6 @@
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 
-vless://1bb64662-1ed9-450c-8f58-b95abb582cfa@147.90.14.202:47005?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-
 
 
 
