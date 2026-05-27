@@ -9,6 +9,11 @@ happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
 vless://abef4e1f-5010-41d3-9561-e5d1e0f8ac7f@185.14.46.20.blanesik.space:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=%2Fsequre%2Fgrpc&sni=185.14.46.20.blanesik.space&authority=grpc.vhub.pro#🇷🇺 Основной 🛡️
 
+vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@66.201.4.248:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=usw.org&pbk=L6EU_GCGptVyjp1Q60ZMmRAZVCCx6EVbW-gyv1Zk3zc&sid=fad0a8e7#🇫🇷 Запасной 🔄
+
+vless://b7a51123-f7d0-4bdc-ba10-971afa6069b8@84.32.96.205:443?type=grpc&mode=gun&serviceName=&security=reality&fp=chrome&sni=gspe1-ssl.ls.apple.com&pbk=MoAnTg4OwbprB8tOxSbZEjbqdUhue4WlA1vQfcA7Sz8&sid=0b1a7f7592c5b87c#🇷🇺 Резерв 🏎️
+
+
 
 
 vless://df779bd5-6961-4544-9adf-9a57ae5262b2@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#🇪🇪%20Обход%20сети%20⚡️4
