@@ -7,6 +7,12 @@
 #profile-web-page-url: https://wa.me/79639864491
 happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
 
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop&alpn=h3#🇳🇱 Тестирование ⚡️1
+
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@0w7ymj.spectrum.vu:443?type=grpc&security=reality&sni=0w7ymj.spectrum.vu&pbk=ckd_LwbbFo8BYf9vT84B20P6EL1n6vl2yMxoXc6X4SA&fp=firefox#🇫🇮 Тестирование ⚡️2
+
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@india.spectrum.vu:443?type=tcp&security=reality&sni=india.spectrum.vu&pbk=gGMmvAp58U4orEaNLVAIXaADTUGvpljoaCFf_eF9AzE&flow=xtls-rprx-vision&fp=firefox#🇩🇪 Тестирование ⚡️3
+
 vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@193.222.99.51:48350?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=stats.vk-portal.net&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%23%201
 hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.76.28.28:443?sni=argg5.auragg.org#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%23%202
 hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.77.131.115:8443?sni=argg3.auragg.org#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%23%201
