@@ -5,6 +5,7 @@
 #announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
+#sort-order: ping
 #subscription-pin: 1
 #subscriptions-collapse: 0
 #hide-settings: 1
