@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=15; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=15; download=0; total=0; expire=1814918400
 #profile-title: Sulim vpn🏅
 #profile-update-interval: 1
 #subscription-update-interval: 1
